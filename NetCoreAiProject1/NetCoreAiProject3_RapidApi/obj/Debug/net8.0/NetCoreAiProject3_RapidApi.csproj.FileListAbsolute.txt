@@ -1,0 +1,17 @@
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.AssemblyInfoInputs.cache
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.AssemblyInfo.cs
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.csproj.CoreCompileInputs.cache
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\bin\Debug\net8.0\NetCoreAiProject3_RapidApi.exe
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\bin\Debug\net8.0\NetCoreAiProject3_RapidApi.deps.json
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\bin\Debug\net8.0\NetCoreAiProject3_RapidApi.runtimeconfig.json
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\bin\Debug\net8.0\NetCoreAiProject3_RapidApi.dll
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\bin\Debug\net8.0\NetCoreAiProject3_RapidApi.pdb
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.dll
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\refint\NetCoreAiProject3_RapidApi.dll
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.pdb
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.genruntimeconfig.cache
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\ref\NetCoreAiProject3_RapidApi.dll
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreAiProject3_RapidApi.csproj.AssemblyReference.cache
+D:\githubD\.netcoreAiApplications_my\NetCoreAiProject1\NetCoreAiProject3_RapidApi\obj\Debug\net8.0\NetCoreA.2AAC7A0A.Up2Date
